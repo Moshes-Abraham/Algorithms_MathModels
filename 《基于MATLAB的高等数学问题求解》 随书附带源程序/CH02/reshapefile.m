@@ -67,4 +67,3 @@ elseif nargout==1
 else
     error('Illegal number of output arguments.')
 end
-web -broswer http://www.ilovematlab.cn/forum-221-1.html
